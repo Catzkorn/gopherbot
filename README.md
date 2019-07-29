@@ -117,3 +117,5 @@ If you want to load one of the example programs on Gopherbot, check out our [exa
 For a series of activities to learn programming TinyGo using Gopherbot, check out the [learn folder](./learn/README.md).
 
 Have fun!
+
+Charlotte Loves Gopherbot 
